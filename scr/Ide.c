@@ -1,3 +1,5 @@
+//https://goo.gl/R6L6BG
+
 #include <stdio.h>
 
 int CheackSmallCapital(char input){
@@ -35,7 +37,7 @@ void LetterCapitalizer(char input[]){
 }
 
 int main(){
-    char input[]={"i ---  go to ----- school"};
+    char input[]={"i am a boy"};
     LetterCapitalizer(input);
     return 0;
 }
