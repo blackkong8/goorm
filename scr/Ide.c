@@ -2,6 +2,7 @@
 
 #include <stdio.h>
 
+
 int CheackSmallCapital(char input){
     if( 'a' <= input && input <= 'z'){
         return 1;
