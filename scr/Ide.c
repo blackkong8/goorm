@@ -35,7 +35,7 @@ void LetterCapitalizer(char input[]){
 }
 
 int main(){
-    char input[]={"i am a boy"};
+    char input[]={"i ---  go to school"};
     LetterCapitalizer(input);
     return 0;
 }
